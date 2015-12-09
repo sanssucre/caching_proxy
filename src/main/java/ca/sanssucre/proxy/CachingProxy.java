@@ -1,4 +1,4 @@
-package com.ypg.proxy;
+package ca.sanssucre.proxy;
 
 
 import org.apache.http.Header;

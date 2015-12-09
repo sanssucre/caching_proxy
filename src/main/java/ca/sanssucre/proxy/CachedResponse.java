@@ -1,4 +1,4 @@
-package com.ypg.proxy;
+package ca.sanssucre.proxy;
 
 import java.util.HashMap;
 import java.util.Map;

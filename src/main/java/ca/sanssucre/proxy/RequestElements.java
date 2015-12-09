@@ -1,4 +1,4 @@
-package com.ypg.proxy;
+package ca.sanssucre.proxy;
 
 /**
  * By: Alain Gaeremynck(alain.gaeremynck@ypg.com) (@sanssucre)
